@@ -1,1 +1,1 @@
-kube-webhook-certgen:v1.4.3
+php:8-apache
